@@ -1,5 +1,53 @@
-CHRONOX v1.01
-Software for the HT-X3006 WiFi Series Chronograph
+ChronoX - Ballistic Chronograph Analysis Software v1.01
+
+ChronoX is a Python-based GUI application designed to interface with the HT-X3006 chronograph, providing real-time monitoring, analysis, and visualization of projectile velocity and kinetic energy. Built for airgun enthusiasts and hobbyists, it offers tools to track performance metrics, manage equipment databases, and ensure compliance with regulatory standards.
+
+Key Features
+
+Real-Time Monitoring:
+
+Track muzzle velocity, kinetic energy, standard deviation, extreme spread (ES), and averages.
+Live-updating graphs for velocity and energy trends over 250 shots.
+
+Unit Conversion:
+
+Toggle between imperial (fps, ft-lbs) and metric (m/s, joules) units instantly.
+
+Data Management:
+
+Pellet & Rifle Databases: Search and select from CSV-stored profiles (e.g., pellet weight, rifle specs).
+xport Options: Save graphs as PNG or shot-by-shot data to text files.
+CSV Integration: Automatically reads/writes gui_data.csv for persistent data storage.
+
+Safety Compliance:
+
+UK regulatory warning toggle to highlight shots exceeding energy limits (12 ft-lbs or 16.27 J).
+
+Modern UI:
+
+Sci-fi themed interface with animated LCD displays.
+Responsive tabs for graphs, databases, settings, and an about section.
+
+Sensor Integration:
+
+Wi-Fi status indicator for HT-X3000 sensor connectivity.
+Flask-based backend for inter-process communication (IPC).
+
+Technologies Used
+
+Frontend: PyQt5, PyQtGraph
+Backend: Flask (for REST API), threading
+Data Handling: CSV, JSON, QSettings
+
+Use Cases
+
+Optimize air rifle performance by analyzing velocity consistency.
+Validate compliance with local energy regulations.
+Catalog and compare pellets/rifles for precision tuning.
+
+====================================================================
+
+Instructions:
 
 1. Launching the Application
 
