@@ -1,4 +1,4 @@
-ChronoX - Ballistic Chronograph Analysis Software v1.01
+ChronoX - Ballistic Chronograph Analysis Software v1.01 for Windows x86/x64.
 
 ChronoX is a Python-based GUI application designed to interface with the HT-X3006 chronograph, providing real-time monitoring, analysis, and visualization of projectile velocity and kinetic energy. Built for airgun enthusiasts and hobbyists, it offers tools to track performance metrics, manage equipment databases, and ensure compliance with regulatory standards.
 
