@@ -23,27 +23,27 @@ Software for the HT-X3006 WiFi Series Chronograph
 
 4. Navigating the Tabs
 
-   At the bottom of the window, you will find multiple tabs with additional features:
+    At the bottom of the window, you will find multiple tabs with additional features:
 
     VELOCITY: Displays a real-time velocity graph of your measurements.
 
     ENERGY: Shows a kinetic energy graph.
 
-   Tip: If the energy exceeds a certain threshold, the graph will highlight these points (e.g., in red).
+    Tip: If the energy exceeds a certain threshold, the graph will highlight these points (e.g., in red).
 
-PELLET DB (Pellet Database):
-    Search: Use the search box to filter pellets by description.
-    View & Select: Click on a pellet to view detailed information and automatically set its weight for calculations.
+    PELLET DB (Pellet Database):
+           Search: Use the search box to filter pellets by description.
+           View & Select: Click on a pellet to view detailed information and automatically set its weight for calculations.
 
-RIFLE DB (Rifle Database):
-     Search: Filter rifles by make or model.
-     Select a Rifle: Click an item to update the muzzle velocity display with your chosen rifle’s details.
+    RIFLE DB (Rifle Database):
+          Search: Filter rifles by make or model.
+          Select a Rifle: Click an item to update the muzzle velocity display with your chosen rifle’s details.
 
-Toggle Sorting: Clicking the “Type” column toggles the sorting order (for example, prioritizing “PCP” if applicable).
+    Toggle Sorting: Clicking the “Type” column toggles the sorting order (for example, prioritizing “PCP” if applicable).
 
-SETTINGS: Provides options such as enabling the UK Regulatory Warning. Adjust these settings to suit your preferences.
+    SETTINGS: Provides options such as enabling the UK Regulatory Warning. Adjust these settings to suit your preferences.
 
-ABOUT: Contains information about ChronoX, a brief description of the software’s purpose, and important disclaimers regarding sensor accuracy.
+    ABOUT: Contains information about ChronoX, a brief description of the software’s purpose, and important disclaimers regarding sensor accuracy.
 
 4. Additional Features
 
