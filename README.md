@@ -49,6 +49,8 @@ Catalog and compare pellets/rifles for precision tuning.
 
 Instructions:
 
+Turn on your HT-X3006 Chronograph and ensure that WiFi is enabled. ChronoX automatically detects and connects to the HT-X3006.
+
 1. Launching the Application
 
     Run the Program:
