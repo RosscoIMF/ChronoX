@@ -25,7 +25,7 @@ UK regulatory warning toggle to highlight shots exceeding energy limits (12 ft-l
 
 Modern UI:
 
-Retro GUI design based on the old Casio digital watches from the 80s with animated LCD displays.
+Retro GUI design based on the classic Casio digital watches of the 80s with animated LCD displays.
 Responsive tabs for graphs, databases, settings...
 
 Sensor Integration:
