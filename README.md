@@ -16,7 +16,7 @@ Toggle between imperial (fps, ft-lbs) and metric (m/s, joules) units instantly.
 Data Management:
 
 Pellet & Rifle Databases: Search and select from CSV-stored profiles (e.g., pellet weight, rifle specs).
-xport Options: Save graphs as PNG or shot-by-shot data to text files.
+Export Options: Save graphs as PNG or shot-by-shot data to text files.
 CSV Integration: Automatically reads/writes gui_data.csv for persistent data storage.
 
 Safety Compliance:
