@@ -107,9 +107,9 @@ Turn on your HT-X3006 Chronograph and ensure that WiFi is enabled. ChronoX autom
 
 5. Tips for Best Use
 
-    Unit Switching: Use the toggle button to switch between measurement systems, which will update labels, graphs, and numerical displays.
+    Unit Switching: Toggle the 'MODE' button to switch between metric and imperial measurements, which will update labels, graphs, and numerical displays.
 
-    Data Reset: If you ever need to clear the recorded CSV data (for a fresh start), press and hold the reset button for 3 seconds.
+    Data Reset: If you ever need to clear the recorded CSV data (for a fresh start), press and hold the 'RESET' button for 3 seconds.
 
     Resource Awareness: The application is designed to correctly load resource files (such as the Wi‑Fi icons) whether run as a script or from an executable—just be sure you have included the “Data” folder with your build.
 
